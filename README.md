@@ -36,7 +36,7 @@ Express로 구현된 Node.js 백엔드 어플리케이션 템플릿입니다.
 
 ## 🏷️ 환경변수
 
-`NODE_ENV`: production(default) 
+- `NODE_ENV`: production(default) 
 
 
 ## 💬 문제해결
