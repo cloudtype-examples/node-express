@@ -36,7 +36,9 @@ Express로 구현된 Node.js 백엔드 어플리케이션 템플릿입니다.
 ## 💬 문제해결
 
 [클라우드타입 Docs](https://docs.cloudtype.io/)
+
 [클라우드타입 FAQ](https://help.cloudtype.io/guide/faq)
+
 [Discord](https://discord.gg/U7HX4BA6hu)
 
 
