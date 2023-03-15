@@ -1,5 +1,4 @@
-
-![Cloudtype](https://files.cloudtype.io/logo/cloudtype-logo-horizontal-black.png)
+<img src="https://files.cloudtype.io/logo/cloudtype-logo-horizontal-black.png" width="50%" alt="Cloudtype"/>
 
 
 # Node.js(Express)
